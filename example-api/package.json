@@ -62,7 +62,7 @@
     "@types/mocha": "^7.0.2",
     "@types/serve-favicon": "^2.5.0",
     "axios": "^0.21.1",
-    "mocha": "^7.1.2",
+    "mocha": "^10.2.0",
     "nodemon": "^2.0.3",
     "shx": "^0.3.2",
     "ts-mocha": "^7.0.0",
